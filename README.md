@@ -1,2 +1,2 @@
-# react-form-2
+# React Form
 Create react form
